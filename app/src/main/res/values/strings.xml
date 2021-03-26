@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="selected_language">English</string>
+    <string name="language">welcome nitin</string>
+
+    <string name="change_language">Change Language</string>
+</resources>

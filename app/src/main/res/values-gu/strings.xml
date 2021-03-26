@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">આંતરભાષીય</string>
+    <string name="selected_language" >ગુજરાતી</string>
+    <string name="language">નમસ્તે, નીતિન</string>
+
+    <string name="change_language">Change Language</string>
+</resources>
