@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //multi language dialog
     private void changeLanguageDialog() {
         final String[] listItem = {"English","ગુજરાતી","हिन्दी"};
 
